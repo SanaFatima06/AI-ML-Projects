@@ -1,4 +1,4 @@
-# SMS Spam Detection System
+ # SMS Spam Detection System
 
 This project is a machine learning-based SMS spam detection system that classifies messages as spam or not spam (ham). It uses natural language processing techniques to preprocess text and a trained classification model for prediction.
 
@@ -42,10 +42,10 @@ The dataset is based on Pakistani SMS patterns, making it more relevant for loca
 
 ```bash
 pip install -r requirements.txt
-
+```
 
 ## Run The Project
-
+**
 python app.py
 
 ## Notes
