@@ -42,3 +42,16 @@ The dataset is based on Pakistani SMS patterns, making it more relevant for loca
 
 ```bash
 pip install -r requirements.txt
+
+
+## Run The Project
+
+python app.py
+
+## Notes
+Model performance depends on dataset quality and preprocessing steps
+Can be improved using advanced NLP models like BERT or transformer-based approaches
+
+## Author
+
+Sana Fatima
